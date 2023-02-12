@@ -10,8 +10,11 @@ function Customer() {
             <h2 className="text-5xl font-bold">Join 350k empowered writers</h2>
             <p className="text-2xl mt-4 mb-8 text-gray-700">Jenni has helped write over 350 million words. From academic <br/> essays, fan fiction, to top-ranking blog posts.</p>
         </div>
-        <div>
-            
+        <div className="textimonials">
+          <div className="border border-2">
+            <h1>Rowen <span>@ambitiousrowen</span></h1>
+            <p>I love @whoisjenniai.</p>
+          </div>
         </div>
     </div>
   )
